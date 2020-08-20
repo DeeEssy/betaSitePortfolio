@@ -716,9 +716,10 @@ ul, li {
   .contact-wrapper .contact-content .contact-info .social__link {
     margin-right: 20px;
   }
+  ..contact-wrapper .contact-content .contact-info .politics {
+    width: 220px;
+  }
   .contact-wrapper .contact-content .contact-info .politics__link {
-    display: block;
-    width: 250px;
-    font-size: 15px;
+    font-size: 14px;
   }
 }
